@@ -1,0 +1,16 @@
+
+.card{
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+}
+.container{
+    margin: 15px;
+}
+h2{
+    background-color: aqua;
+    padding: 50px;
+}
+.corouselimage{
+    height: 100vh;
+}

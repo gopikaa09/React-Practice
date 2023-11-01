@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Heading1{
+    background-color: grey;
+    padding: 15px;
+}
+marquee{
+    background-color: bisque;
+    padding: 15px;
+    color: rgb(13, 0, 255);
+    font-weight: 900;
+}
