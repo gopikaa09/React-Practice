@@ -1,4 +1,4 @@
-body{
+/* body{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -10,7 +10,6 @@ h3{
 p{
     color: red;
 }
-
 .form{
     background-color: rgb(37, 76, 76);
     padding: 15px;
@@ -33,4 +32,4 @@ p{
     padding: 10px 15px;
     border-radius: 5px;
     margin: 10px 160px;
-}
+} */

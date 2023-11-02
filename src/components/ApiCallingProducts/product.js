@@ -581,11 +581,6 @@ const Products = () => {
   ]);
   
 
-  // const updateProductList = Productlist.map((product) => ({
-  //   ...product,
-  //   count: 0
-  // }));
-
   const [updateProductList,setUpdateProducts]=useState(
     Productlist.map((product) => ({
       ...product,

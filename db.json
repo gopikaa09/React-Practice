@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "FirstName": "Gopika",
+      "LastName": "Guduru",
+      "email": "gopika.guduru@gmail.com",
+      "Password": "123",
+      "ConfirmPass": "123",
+      "id": 1
+    },
+    {
+      "FirstName": "Gopika",
+      "LastName": "Guduru",
+      "email": "gopika.guduru@gmail.com",
+      "Password": "123",
+      "ConfirmPass": "123",
+      "id": 2
+    },
+    {
+      "FirstName": "Nagendra",
+      "LastName": "Guduru",
+      "email": "gopika.guduru@gmail.com",
+      "Password": "123456789",
+      "ConfirmPass": "123456789",
+      "id": 3
+    },
+    {
+      "FirstName": "mano",
+      "LastName": "mano",
+      "email": "mano@gmail.com",
+      "Password": "123456789",
+      "ConfirmPass": "123456789",
+      "id": 4
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

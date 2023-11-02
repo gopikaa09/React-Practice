@@ -1,5 +1,6 @@
 
 import ApiMain from "./components/ApiCallingProducts/Apimain";
+import FakeStore from "./components/ApiCallingProducts/fakestore";
 import { Main } from "./components/Bootstrap/main";
 import { Cards } from "./components/Flipkart/Cards";
 import style from './components/Flipkart/Cards.css'
@@ -7,6 +8,7 @@ import { Heading } from "./components/Flipkart/Heading";
 import { Navbar } from "./components/Flipkart/Navbar";
 import { MainRegister } from "./components/Registration/mainregister";
 import Timer from "./components/Timer/timer";
+import UseEffect from "./components/UseEffect Practicee/useeffect1";
 
 
 
@@ -15,8 +17,9 @@ const App = () => {
   
   return (
 
-    <div>
-    </div>
+    // <div>
+    // <UseEffect/>
+    // </div>
 
 
     // <div>
@@ -26,9 +29,8 @@ const App = () => {
     // <ApiMain/>
     // </div>
     
-
     
-
+    <FakeStore/>
 
 
     // <div>
