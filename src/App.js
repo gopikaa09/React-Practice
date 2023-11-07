@@ -8,7 +8,9 @@ import { Heading } from "./components/Flipkart/Heading";
 import { Navbar } from "./components/Flipkart/Navbar";
 import { MainRegister } from "./components/Registration/mainregister";
 import Timer from "./components/Timer/timer";
+import ToDolist from "./components/Todolist/todolist";
 import UseEffect from "./components/UseEffect Practicee/useeffect1";
+import Circle from "./components/circles/Circle";
 
 
 
@@ -16,6 +18,16 @@ import UseEffect from "./components/UseEffect Practicee/useeffect1";
 const App = () => {
   
   return (
+    // <div>
+    // <Circle/>
+    // </div>
+
+    // <div>
+    // <Circle/>
+    // </div>
+    <div>
+    <ToDolist/>
+    </div>
 
     // <div>
     // <UseEffect/>
@@ -30,7 +42,7 @@ const App = () => {
     // </div>
     
     
-    <FakeStore/>
+    // <FakeStore/>
 
 
     // <div>
